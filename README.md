@@ -7,10 +7,10 @@ Python app for windows & android that hashes the single secret phrase with servi
 > 
 > The custom app only I am gonna use, not professional or planned to be distributed in any way. Code/project free to everyone though.
 > Advantages:
-- No more remembering passwords (except the only secret phrase)
-- No relying on the third part (except the app itself)
-- Randomized, good & different passwords for any site
+> - No more remembering passwords (except the only secret phrase)
+> - No relying on the third part (except the app itself)
+> - Randomized, good & different passwords for any site
 > Disadvantages:
-- Need to use the app every time you need to enter the password in any your service/site
-- Need (not necesseraly though) to save servicenames, usernames, password lengths etc in a separate storage, no cloud save or cross device communication, app's totally offline, it's just a hasher
+> - Need to use the app every time you need to enter the password in any your service/site
+> - Need (not necesseraly though) to save servicenames, usernames, password lengths etc in a separate storage, no cloud save or cross device communication, app's totally offline, it's just a hasher
 - One key to all your life
