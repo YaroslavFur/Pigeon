@@ -1,5 +1,6 @@
 # Pigeon
 Pigeon (P-Gen) (Password Generator) - custom passwords storing app.
+
 Python app for windows & android that hashes the single secret phrase with servicename & username provided by the user to generate unique and different passwords for every site/service/user. Services & usernames are stored in memory for quick selection. Pigeon user only needs to know & input one secret phrase to get any password needed. It's basically custom passwords storing app.
 
 > Uses Kivy framework.
