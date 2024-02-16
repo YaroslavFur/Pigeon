@@ -15,5 +15,5 @@ Python app for windows & android that hashes the single secret phrase with servi
 > 
 > Disadvantages:
 > - Need to use the app every time you need to enter the password in any of your service/site
-> - Need (not necesseraly though) to save servicenames, usernames, password lengths etc in a separate storage, no cloud save or cross device communication implemented in Pigeon, app's totally offline, it's just a hasher
+> - Need (not necessarily though) to save servicenames, usernames, password lengths etc in a separate storage, no cloud save or cross device communication implemented in Pigeon, app's totally offline, it's just a hasher
 > - One key to all your life
